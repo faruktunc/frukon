@@ -1,0 +1,8 @@
+{
+  "name": "frukon",
+  "description": "Türkçe film ve dizi eklentileri",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/faruktunc/frukon/builds/plugins.json"
+  ]
+}
