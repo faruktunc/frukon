@@ -1,10 +1,31 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizifilmizle.to&sz=%size%",
-        "fileHash": "sha256-0452da469e2bdf41b2caa2c4817587579ba2427a27c3303b3a83087ae09e56ec",
+        "fileHash": "sha256-49784108e37bf6b93452877f6df0d5f7e2b23b633d81d1394ad932a60fa2b4e5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 29197,
+        "fileSize": 29356,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "frukon"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "DiziFilmIzle",
+        "description": "Yabanc\u0131 film ve dizi izleme sitesi.",
+        "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziFilmIzle.cs3",
+        "name": "DiziFilmIzle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi80.life&sz=%size%",
+        "fileHash": "sha256-7cf240b370c27d2c4ecf857797cba0c3e28ddcd1e9c0837e73f7ce9300030400",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/faruktunc/frukon",
+        "fileSize": 23149,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -15,10 +36,10 @@
             "TvSeries"
         ],
         "version": 1,
-        "internalName": "DiziFilmIzle",
-        "description": "Yabanc\u0131 film ve dizi izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziFilmIzle.cs3",
-        "name": "DiziFilmIzle"
+        "internalName": "DiziLife",
+        "description": "Yabanc\u0131 dizi ve film izleme sitesi (dizi80.life).",
+        "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziLife.cs3",
+        "name": "DiziLife"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1591.com&sz=%size%",
