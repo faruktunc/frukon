@@ -43,10 +43,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1591.com&sz=%size%",
-        "fileHash": "sha256-51b415f89be325d5dc6dd8ebabe08ca53e62a30e07eccdb51c4f16ecf3804fec",
+        "fileHash": "sha256-b7e7aa188becebb05ae4749d44339988d0fdfa01d31c1f2864831e68b9cfa69b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 21335,
+        "fileSize": 24626,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -56,7 +56,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DiziPal",
         "description": "Yabanc\u0131 dizi ve film izleme sitesi (arama devre d\u0131\u015f\u0131, TODO).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziPal.cs3",
