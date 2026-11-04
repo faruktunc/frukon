@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizifilmizle.to&sz=%size%",
-        "fileHash": "sha256-873e24f187a3ac18c610924c148d15689fb1d63108d1a7e03661f65b41afabe8",
+        "fileHash": "sha256-49784108e37bf6b93452877f6df0d5f7e2b23b633d81d1394ad932a60fa2b4e5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 35942,
+        "fileSize": 29356,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -16,16 +16,16 @@
         ],
         "version": 2,
         "internalName": "DiziFilmIzle",
-        "description": "Yabanc\u0131 film ve dizi izleme sitesi.",
+        "description": "Yabancı film ve dizi izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziFilmIzle.cs3",
         "name": "DiziFilmIzle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi80.life&sz=%size%",
-        "fileHash": "sha256-9ab4fbbf0c260d870986cf215a1005ac66e1f745fbe5ccbdbf4ee11e9487fe6a",
+        "fileHash": "sha256-7cf240b370c27d2c4ecf857797cba0c3e28ddcd1e9c0837e73f7ce9300030400",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 30034,
+        "fileSize": 23149,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -37,7 +37,7 @@
         ],
         "version": 1,
         "internalName": "DiziLife",
-        "description": "Yabanc\u0131 dizi ve film izleme sitesi (dizi80.life).",
+        "description": "Yabancı dizi ve film izleme sitesi (dizi80.life).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziLife.cs3",
         "name": "DiziLife"
     },
@@ -58,16 +58,16 @@
         ],
         "version": 3,
         "internalName": "DiziPal",
-        "description": "Yabanc\u0131 dizi ve film izleme sitesi (arama devre d\u0131\u015f\u0131, TODO).",
+        "description": "Yabancı dizi ve film izleme sitesi (arama devre dışı, TODO).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal.bid&sz=%size%",
-        "fileHash": "sha256-b1a4e814b690d029fc061f057d5412bbca20f187ae1c8bdd4e2e6da0b9fb7731",
+        "fileHash": "sha256-b44bc92ad57b94b7bbc0e147cc624328ed06d0dfde7445a4433d39fb3481cb9d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 28680,
+        "fileSize": 21654,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -80,7 +80,7 @@
         ],
         "version": 2,
         "internalName": "DizipalExtended",
-        "description": "Yabanc\u0131 dizi, film ve anime izleme sitesi (dizipal.bid aynas\u0131).",
+        "description": "Yabancı dizi, film ve anime izleme sitesi (dizipal.bid aynası).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DizipalExtended.cs3",
         "name": "DizipalExtended"
     },
@@ -100,16 +100,16 @@
         ],
         "version": 3,
         "internalName": "DiziWatch",
-        "description": "Yabanc\u0131 dizi ve anime izleme sitesi.",
+        "description": "Yabancı dizi ve anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziWatch.cs3",
         "name": "DiziWatch"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-e6bc19b7a7fb94732c743e7df7ec4629e9508f421ae2e06352787435ccaf54b7",
+        "fileHash": "sha256-920d374c51f2ebeff729c97a5d1e50c487f098618c0048faf58fd9fe9769b2c0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 28982,
+        "fileSize": 22016,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -127,10 +127,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-37a46fc030ada8d835e478e2d61e31d24d53f44598da9ff6df6b467d5f56840d",
+        "fileHash": "sha256-8d0035616eb1e581916e83dc16266aa4ab45787a48cc63b2c406577dd84f4364",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 41817,
+        "fileSize": 34893,
         "status": 3,
         "language": "tr",
         "authors": [
