@@ -106,10 +106,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-1aa8b76890aa725a7d8c878f3a425340347e40778bc5b1459c7d28e309b21c90",
+        "fileHash": "sha256-920d374c51f2ebeff729c97a5d1e50c487f098618c0048faf58fd9fe9769b2c0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 21735,
+        "fileSize": 22016,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -119,7 +119,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "FilmMakinesi",
         "description": "Film ve dizi izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/FilmMakinesi.cs3",
@@ -127,10 +127,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-6d8def81552275719fd5c3af48936b5959397eb35c88f1510550a364faec6401",
+        "fileHash": "sha256-8d0035616eb1e581916e83dc16266aa4ab45787a48cc63b2c406577dd84f4364",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 34723,
+        "fileSize": 34893,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -140,7 +140,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "HDFilmCehennemi",
         "description": "HD film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/HDFilmCehennemi.cs3",
