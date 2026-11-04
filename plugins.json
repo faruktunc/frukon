@@ -58,7 +58,7 @@
         ],
         "version": 3,
         "internalName": "DiziPal",
-        "description": "Yabancı dizi ve film izleme sitesi (arama devre dışı, TODO).",
+        "description": "Yabancı dizi ve film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziPal.cs3",
         "name": "DiziPal"
     },

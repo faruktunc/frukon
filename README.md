@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/faruktunc/frukon/builds/repo.json
 |---|---|---|
 | DiziFilmIzle | Yabancı film ve dizi | Beta |
 | DiziLife | Yabancı dizi ve film (dizi80.life) | Beta |
-| DiziPal | Yabancı dizi ve film (arama şu an site kaynaklı olarak devre dışı) | Beta |
+| DiziPal | Yabancı dizi ve film | Beta |
 | DizipalExtended | Yabancı dizi, film ve anime (dizipal.bid aynası) | Beta |
 | DiziWatch | Yabancı dizi ve anime | Beta |
 | FilmMakinesi | Film ve dizi | Beta |
