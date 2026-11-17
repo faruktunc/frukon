@@ -22,10 +22,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi80.life&sz=%size%",
-        "fileHash": "sha256-7cf240b370c27d2c4ecf857797cba0c3e28ddcd1e9c0837e73f7ce9300030400",
+        "fileHash": "sha256-dbe92c40b956f9a83c12ee02f3e3bd78f642556d325ace0a1555e7c92ecb2952",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 23149,
+        "fileSize": 50985,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -35,7 +35,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "DiziLife",
         "description": "Yabancı dizi ve film izleme sitesi (dizi80.life).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziLife.cs3",
