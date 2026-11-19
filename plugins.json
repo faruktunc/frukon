@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizifilmizle.to&sz=%size%",
-        "fileHash": "sha256-49784108e37bf6b93452877f6df0d5f7e2b23b633d81d1394ad932a60fa2b4e5",
+        "fileHash": "sha256-763aeeb77fb4050d482142ac253df8002cf219bf285bb9e4c2cc7e73f5cce452",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 29356,
+        "fileSize": 56939,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -14,18 +14,18 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DiziFilmIzle",
-        "description": "Yabancı film ve dizi izleme sitesi.",
+        "description": "Yabanc\u0131 film ve dizi izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziFilmIzle.cs3",
         "name": "DiziFilmIzle"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizi80.life&sz=%size%",
-        "fileHash": "sha256-dbe92c40b956f9a83c12ee02f3e3bd78f642556d325ace0a1555e7c92ecb2952",
+        "fileHash": "sha256-c106ea49c4bdfe3fcbc471ace5923cac65b01443b4a7169f3c156f4967b0d41d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 50985,
+        "fileSize": 54819,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -35,18 +35,18 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DiziLife",
-        "description": "Yabancı dizi ve film izleme sitesi (dizi80.life).",
+        "description": "Yabanc\u0131 dizi ve film izleme sitesi (dizi80.life).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziLife.cs3",
         "name": "DiziLife"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1591.com&sz=%size%",
-        "fileHash": "sha256-36c52c543536107edb5b52fe072fca6e803883e5847d7ccdfe593902b9fd0c24",
+        "fileHash": "sha256-acdd3fe00f040edc7654c38f5e065a6277bf19e3e60d958b9a99e15b79ba76fa",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 43986,
+        "fileSize": 47392,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -56,18 +56,18 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "DiziPal",
-        "description": "Yabancı dizi ve film izleme sitesi.",
+        "description": "Yabanc\u0131 dizi ve film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziPal.cs3",
         "name": "DiziPal"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal.bid&sz=%size%",
-        "fileHash": "sha256-b44bc92ad57b94b7bbc0e147cc624328ed06d0dfde7445a4433d39fb3481cb9d",
+        "fileHash": "sha256-c7c618d57f29705a66dac9bd03c3445f5c5147242368f1568400cbdbff1c3d98",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 21654,
+        "fileSize": 50695,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -78,18 +78,18 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "DizipalExtended",
-        "description": "Yabancı dizi, film ve anime izleme sitesi (dizipal.bid aynası).",
+        "description": "Yabanc\u0131 dizi, film ve anime izleme sitesi (dizipal.bid aynas\u0131).",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DizipalExtended.cs3",
         "name": "DizipalExtended"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://diziwatch.app&sz=%size%",
-        "fileHash": "sha256-6993b5b7075dba79336d07d0a9910288dd2de490a20e2f0f879a97d4d78edf79",
+        "fileHash": "sha256-eaa728b4e4e7345537defa416ee7ce3652c09948a988af9d0dab921bc5b093c6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 42725,
+        "fileSize": 46157,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -98,18 +98,18 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "DiziWatch",
-        "description": "Yabancı dizi ve anime izleme sitesi.",
+        "description": "Yabanc\u0131 dizi ve anime izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/DiziWatch.cs3",
         "name": "DiziWatch"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmmakinesi.to&sz=%size%",
-        "fileHash": "sha256-ff6fc5a42d4452e37ac9fbb2b1beea23f77223df8bacda7512d9d3bef4963675",
+        "fileHash": "sha256-7d888104be3e916f70385705ada8fd176e6a860b31069b9dc2c8f0d4b3682e54",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 47081,
+        "fileSize": 51110,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -119,7 +119,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "FilmMakinesi",
         "description": "Film ve dizi izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/FilmMakinesi.cs3",
@@ -127,10 +127,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hdfilmcehennemi.nl&sz=%size%",
-        "fileHash": "sha256-c10ae73fba60de829d7557e99e76420673ceec84798d52ddd2fea634193548f1",
+        "fileHash": "sha256-cb6a19dae4445e2fd248423fb5f1d7344d93618193ce99b46a2b75f2b09f3f0f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/faruktunc/frukon",
-        "fileSize": 61785,
+        "fileSize": 65949,
         "status": 3,
         "language": "tr",
         "authors": [
@@ -140,7 +140,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "HDFilmCehennemi",
         "description": "HD film izleme sitesi.",
         "url": "https://raw.githubusercontent.com/faruktunc/frukon/builds/HDFilmCehennemi.cs3",
